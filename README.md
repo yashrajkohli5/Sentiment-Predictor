@@ -19,3 +19,4 @@ Ensure you have Python 3.8+ installed. You will need the following libraries:
 * `streamlit`
 * `tensorflow`
 * `numpy`
+* `pandas`
